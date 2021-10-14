@@ -1,0 +1,5 @@
+# misc
+.DS_Store
+geckodriver.log
+/secrets
+scratch.txt
